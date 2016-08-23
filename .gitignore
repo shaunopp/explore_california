@@ -1,5 +1,6 @@
 *.txt
 .DS_Store
+tempfile2.html
 *.zip
 *.gz
 log/*.log
